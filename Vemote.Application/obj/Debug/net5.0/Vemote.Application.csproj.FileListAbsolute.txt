@@ -1,0 +1,17 @@
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\bin\Debug\net5.0\Vemote.Application.deps.json
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\bin\Debug\net5.0\Vemote.Application.dll
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\bin\Debug\net5.0\ref\Vemote.Application.dll
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\bin\Debug\net5.0\Vemote.Application.pdb
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\Vemote.Application.csproj.AssemblyReference.cache
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\Vemote.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\Vemote.Application.AssemblyInfoInputs.cache
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\Vemote.Application.AssemblyInfo.cs
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\Vemote.Application.csproj.CoreCompileInputs.cache
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\Vemote.Application.dll
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\ref\Vemote.Application.dll
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\Vemote.Application.pdb
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\bin\Debug\net5.0\Vemote.Domain.dll
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\bin\Debug\net5.0\Vemote.Domain.pdb
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\obj\Debug\net5.0\Vemote.Application.csproj.CopyComplete
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\bin\Debug\net5.0\Vemote.Infrastructure.dll
+D:\IT\Nam_4\hoc_ki_1\TLCN\API\Vemote\Vemote.Application\bin\Debug\net5.0\Vemote.Infrastructure.pdb
